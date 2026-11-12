@@ -175,13 +175,12 @@
        "layout": "horizontal",
        "contents": [
         {
-         "type": "text",
-         "text": "SENJI WATERPROOFING",
-         "size": "xxs",
-         "weight": "regular",
-         "color": "#26282B",
-         "wrap": false,
-         "flex": 1
+         "type": "image",
+         "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/logo_senji_h.png",
+         "size": "90px",
+         "aspectRatio": "324:115",
+         "aspectMode": "fit",
+         "flex": 0
         },
         {
          "type": "text",
@@ -189,11 +188,13 @@
          "size": "xxs",
          "weight": "regular",
          "color": "#26282B",
-         "wrap": false
+         "wrap": false,
+         "flex": 1,
+         "align": "end"
         }
        ],
        "spacing": "sm",
-       "justifyContent": "space-between"
+       "alignItems": "center"
       },
       {
        "type": "box",
@@ -443,7 +444,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero1-v3.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero1-v4.jpg",
      "size": "full",
      "aspectRatio": "4:3",
      "aspectMode": "cover",
@@ -625,13 +626,12 @@
        "layout": "horizontal",
        "contents": [
         {
-         "type": "text",
-         "text": "SENJI WATERPROOFING",
-         "size": "xxs",
-         "weight": "regular",
-         "color": "#26282B",
-         "wrap": false,
-         "flex": 1
+         "type": "image",
+         "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/logo_senji_h.png",
+         "size": "90px",
+         "aspectRatio": "324:115",
+         "aspectMode": "fit",
+         "flex": 0
         },
         {
          "type": "text",
@@ -639,11 +639,13 @@
          "size": "xxs",
          "weight": "regular",
          "color": "#26282B",
-         "wrap": false
+         "wrap": false,
+         "flex": 1,
+         "align": "end"
         }
        ],
        "spacing": "sm",
-       "justifyContent": "space-between"
+       "alignItems": "center"
       },
       {
        "type": "box",
@@ -864,7 +866,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero2-v3.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero2-v4.jpg",
      "size": "full",
      "aspectRatio": "4:3",
      "aspectMode": "cover",
@@ -1046,13 +1048,12 @@
        "layout": "horizontal",
        "contents": [
         {
-         "type": "text",
-         "text": "SENJI WATERPROOFING",
-         "size": "xxs",
-         "weight": "regular",
-         "color": "#26282B",
-         "wrap": false,
-         "flex": 1
+         "type": "image",
+         "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/logo_senji_h.png",
+         "size": "90px",
+         "aspectRatio": "324:115",
+         "aspectMode": "fit",
+         "flex": 0
         },
         {
          "type": "text",
@@ -1060,11 +1061,13 @@
          "size": "xxs",
          "weight": "regular",
          "color": "#26282B",
-         "wrap": false
+         "wrap": false,
+         "flex": 1,
+         "align": "end"
         }
        ],
        "spacing": "sm",
-       "justifyContent": "space-between"
+       "alignItems": "center"
       },
       {
        "type": "box",
@@ -1285,7 +1288,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero3-v3.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero3-v4.jpg",
      "size": "full",
      "aspectRatio": "4:3",
      "aspectMode": "cover",
@@ -1467,13 +1470,12 @@
        "layout": "horizontal",
        "contents": [
         {
-         "type": "text",
-         "text": "SENJI WATERPROOFING",
-         "size": "xxs",
-         "weight": "regular",
-         "color": "#26282B",
-         "wrap": false,
-         "flex": 1
+         "type": "image",
+         "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/logo_senji_h.png",
+         "size": "90px",
+         "aspectRatio": "324:115",
+         "aspectMode": "fit",
+         "flex": 0
         },
         {
          "type": "text",
@@ -1481,11 +1483,13 @@
          "size": "xxs",
          "weight": "regular",
          "color": "#26282B",
-         "wrap": false
+         "wrap": false,
+         "flex": 1,
+         "align": "end"
         }
        ],
        "spacing": "sm",
-       "justifyContent": "space-between"
+       "alignItems": "center"
       },
       {
        "type": "box",
@@ -1726,7 +1730,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero4-v3.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero4-v4.jpg",
      "size": "full",
      "aspectRatio": "4:3",
      "aspectMode": "cover",
@@ -1908,13 +1912,12 @@
        "layout": "horizontal",
        "contents": [
         {
-         "type": "text",
-         "text": "SENJI WATERPROOFING",
-         "size": "xxs",
-         "weight": "regular",
-         "color": "#26282B",
-         "wrap": false,
-         "flex": 1
+         "type": "image",
+         "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/logo_senji_h.png",
+         "size": "90px",
+         "aspectRatio": "324:115",
+         "aspectMode": "fit",
+         "flex": 0
         },
         {
          "type": "text",
@@ -1922,11 +1925,13 @@
          "size": "xxs",
          "weight": "regular",
          "color": "#26282B",
-         "wrap": false
+         "wrap": false,
+         "flex": 1,
+         "align": "end"
         }
        ],
        "spacing": "sm",
-       "justifyContent": "space-between"
+       "alignItems": "center"
       },
       {
        "type": "box",
@@ -2147,7 +2152,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero5-v3.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero5-v4.jpg",
      "size": "full",
      "aspectRatio": "4:3",
      "aspectMode": "cover",
@@ -2329,13 +2334,12 @@
        "layout": "horizontal",
        "contents": [
         {
-         "type": "text",
-         "text": "SENJI WATERPROOFING",
-         "size": "xxs",
-         "weight": "regular",
-         "color": "#26282B",
-         "wrap": false,
-         "flex": 1
+         "type": "image",
+         "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/logo_senji_h.png",
+         "size": "90px",
+         "aspectRatio": "324:115",
+         "aspectMode": "fit",
+         "flex": 0
         },
         {
          "type": "text",
@@ -2343,11 +2347,13 @@
          "size": "xxs",
          "weight": "regular",
          "color": "#26282B",
-         "wrap": false
+         "wrap": false,
+         "flex": 1,
+         "align": "end"
         }
        ],
        "spacing": "sm",
-       "justifyContent": "space-between"
+       "alignItems": "center"
       },
       {
        "type": "box",
