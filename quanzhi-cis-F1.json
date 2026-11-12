@@ -279,7 +279,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -312,7 +312,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -338,7 +338,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -364,7 +364,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -397,7 +397,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -412,7 +412,7 @@
        "spacing": "none"
       }
      ],
-     "spacing": "sm",
+     "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
     }
@@ -663,7 +663,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -696,7 +696,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -722,7 +722,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -748,7 +748,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -781,7 +781,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -796,7 +796,7 @@
        "spacing": "none"
       }
      ],
-     "spacing": "sm",
+     "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
     }
@@ -1047,7 +1047,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1080,7 +1080,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1106,7 +1106,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1132,7 +1132,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1165,7 +1165,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1180,7 +1180,7 @@
        "spacing": "none"
       }
      ],
-     "spacing": "sm",
+     "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
     }
@@ -1451,7 +1451,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1484,7 +1484,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1510,7 +1510,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1536,7 +1536,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1569,7 +1569,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1584,7 +1584,7 @@
        "spacing": "none"
       }
      ],
-     "spacing": "sm",
+     "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
     }
@@ -1835,7 +1835,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1868,7 +1868,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1894,7 +1894,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1920,7 +1920,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1953,7 +1953,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -1968,7 +1968,7 @@
        "spacing": "none"
       }
      ],
-     "spacing": "sm",
+     "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
     }
@@ -2333,7 +2333,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -2366,7 +2366,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -2392,7 +2392,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -2418,7 +2418,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -2451,7 +2451,7 @@
           }
          ],
          "spacing": "none",
-         "paddingAll": "10px",
+         "paddingAll": "8px",
          "backgroundColor": "#1B6DB7",
          "cornerRadius": "8px",
          "alignItems": "center",
@@ -2466,7 +2466,7 @@
        "spacing": "none"
       }
      ],
-     "spacing": "sm",
+     "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
     }
