@@ -443,7 +443,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero1.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero1-v2.jpg",
      "size": "full",
      "aspectRatio": "3:4",
      "aspectMode": "cover",
@@ -864,7 +864,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero2.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero2-v2.jpg",
      "size": "full",
      "aspectRatio": "3:4",
      "aspectMode": "cover",
@@ -1285,7 +1285,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero3.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero3-v2.jpg",
      "size": "full",
      "aspectRatio": "3:4",
      "aspectMode": "cover",
@@ -1726,7 +1726,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero4.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero4-v2.jpg",
      "size": "full",
      "aspectRatio": "3:4",
      "aspectMode": "cover",
@@ -2147,7 +2147,7 @@
     },
     "hero": {
      "type": "image",
-     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero5.jpg",
+     "url": "https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/img/cis-hero5-v2.jpg",
      "size": "full",
      "aspectRatio": "3:4",
      "aspectMode": "cover",
