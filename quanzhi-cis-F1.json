@@ -21,157 +21,6 @@
      "contents": [
       {
        "type": "box",
-       "layout": "vertical",
-       "contents": [
-        {
-         "type": "box",
-         "layout": "horizontal",
-         "contents": [
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          }
-         ],
-         "spacing": "none",
-         "alignItems": "flex-end",
-         "height": "12px",
-         "justifyContent": "space-between"
-        },
-        {
-         "type": "box",
-         "layout": "vertical",
-         "contents": [],
-         "backgroundColor": "#1F3A68",
-         "height": "1px",
-         "width": "100%"
-        }
-       ],
-       "spacing": "none"
-      },
-      {
-       "type": "box",
        "layout": "horizontal",
        "contents": [
         {
@@ -186,7 +35,7 @@
         {
          "type": "text",
          "text": "01 / 06",
-         "size": "xxs",
+         "size": "xs",
          "weight": "regular",
          "color": "#26282B",
          "wrap": false
@@ -202,7 +51,7 @@
         {
          "type": "text",
          "text": "鄧溢錩 SUNNY",
-         "size": "xl",
+         "size": "xxl",
          "weight": "bold",
          "color": "#1F3A68",
          "wrap": true,
@@ -236,7 +85,7 @@
       {
        "type": "text",
        "text": "銓治工程 負責人",
-       "size": "sm",
+       "size": "md",
        "weight": "regular",
        "color": "#26282B",
        "wrap": true,
@@ -245,7 +94,7 @@
       {
        "type": "text",
        "text": "從漏水檢測到防水修繕，為您處理房屋滲漏問題。",
-       "size": "sm",
+       "size": "md",
        "weight": "regular",
        "color": "#26282B",
        "wrap": true,
@@ -253,7 +102,7 @@
       }
      ],
      "spacing": "none",
-     "paddingAll": "18px",
+     "paddingAll": "10px",
      "backgroundColor": "#F4F1EA"
     },
     "footer": {
@@ -271,7 +120,7 @@
           {
            "type": "text",
            "text": "立即來電 0915-226881",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -304,7 +153,7 @@
           {
            "type": "text",
            "text": "官方網站",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -330,7 +179,7 @@
           {
            "type": "text",
            "text": "官方 LINE",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -356,7 +205,7 @@
           {
            "type": "text",
            "text": "修繕需求",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -389,7 +238,7 @@
           {
            "type": "text",
            "text": "分享名片",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -415,6 +264,11 @@
      "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
+    },
+    "action": {
+     "type": "uri",
+     "label": "開啟名片",
+     "uri": "https://sunny.cardtaiwan.com/"
     }
    },
    {
@@ -432,157 +286,6 @@
      "type": "box",
      "layout": "vertical",
      "contents": [
-      {
-       "type": "box",
-       "layout": "vertical",
-       "contents": [
-        {
-         "type": "box",
-         "layout": "horizontal",
-         "contents": [
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          }
-         ],
-         "spacing": "none",
-         "alignItems": "flex-end",
-         "height": "12px",
-         "justifyContent": "space-between"
-        },
-        {
-         "type": "box",
-         "layout": "vertical",
-         "contents": [],
-         "backgroundColor": "#1F3A68",
-         "height": "1px",
-         "width": "100%"
-        }
-       ],
-       "spacing": "none"
-      },
       {
        "type": "box",
        "layout": "horizontal",
@@ -599,7 +302,7 @@
         {
          "type": "text",
          "text": "02 / 06",
-         "size": "xxs",
+         "size": "xs",
          "weight": "regular",
          "color": "#26282B",
          "wrap": false
@@ -615,7 +318,7 @@
         {
          "type": "text",
          "text": "我們專為誰服務",
-         "size": "xl",
+         "size": "xxl",
          "weight": "bold",
          "color": "#1F3A68",
          "wrap": true,
@@ -629,15 +332,16 @@
       {
        "type": "text",
        "text": "· 有漏水、壁癌困擾的屋主\n· 需要修繕出租物件的房東\n· 協助買賣屋修繕的房仲夥伴\n· 規劃公共區域修繕的社區管委會\n· 有防水修繕需求的店家與企業",
-       "size": "sm",
+       "size": "md",
        "weight": "regular",
        "color": "#26282B",
        "wrap": true,
+       "lineSpacing": "2px",
        "margin": "sm"
       }
      ],
      "spacing": "none",
-     "paddingAll": "18px",
+     "paddingAll": "10px",
      "backgroundColor": "#F4F1EA"
     },
     "footer": {
@@ -655,7 +359,7 @@
           {
            "type": "text",
            "text": "立即來電 0915-226881",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -688,7 +392,7 @@
           {
            "type": "text",
            "text": "官方網站",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -714,7 +418,7 @@
           {
            "type": "text",
            "text": "官方 LINE",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -740,7 +444,7 @@
           {
            "type": "text",
            "text": "修繕需求",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -773,7 +477,7 @@
           {
            "type": "text",
            "text": "分享名片",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -799,6 +503,11 @@
      "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
+    },
+    "action": {
+     "type": "uri",
+     "label": "開啟名片",
+     "uri": "https://sunny.cardtaiwan.com/"
     }
    },
    {
@@ -816,157 +525,6 @@
      "type": "box",
      "layout": "vertical",
      "contents": [
-      {
-       "type": "box",
-       "layout": "vertical",
-       "contents": [
-        {
-         "type": "box",
-         "layout": "horizontal",
-         "contents": [
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          }
-         ],
-         "spacing": "none",
-         "alignItems": "flex-end",
-         "height": "12px",
-         "justifyContent": "space-between"
-        },
-        {
-         "type": "box",
-         "layout": "vertical",
-         "contents": [],
-         "backgroundColor": "#1F3A68",
-         "height": "1px",
-         "width": "100%"
-        }
-       ],
-       "spacing": "none"
-      },
       {
        "type": "box",
        "layout": "horizontal",
@@ -983,7 +541,7 @@
         {
          "type": "text",
          "text": "03 / 06",
-         "size": "xxs",
+         "size": "xs",
          "weight": "regular",
          "color": "#26282B",
          "wrap": false
@@ -999,7 +557,7 @@
         {
          "type": "text",
          "text": "我們能為你做什麼",
-         "size": "xl",
+         "size": "xxl",
          "weight": "bold",
          "color": "#1F3A68",
          "wrap": true,
@@ -1013,15 +571,16 @@
       {
        "type": "text",
        "text": "· 科技測漏：儀器與現場測試，釐清滲漏來源。\n· 外牆防水：外牆、窗框及接縫滲水修繕。\n· 屋頂與浴廁防水：依現場狀況安排整修。\n· 室內止漏與壁癌：處理滲漏及受損牆面。",
-       "size": "sm",
+       "size": "md",
        "weight": "regular",
        "color": "#26282B",
        "wrap": true,
+       "lineSpacing": "2px",
        "margin": "sm"
       }
      ],
      "spacing": "none",
-     "paddingAll": "18px",
+     "paddingAll": "10px",
      "backgroundColor": "#F4F1EA"
     },
     "footer": {
@@ -1039,7 +598,7 @@
           {
            "type": "text",
            "text": "立即來電 0915-226881",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1072,7 +631,7 @@
           {
            "type": "text",
            "text": "官方網站",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1098,7 +657,7 @@
           {
            "type": "text",
            "text": "官方 LINE",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1124,7 +683,7 @@
           {
            "type": "text",
            "text": "修繕需求",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1157,7 +716,7 @@
           {
            "type": "text",
            "text": "分享名片",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1183,6 +742,11 @@
      "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
+    },
+    "action": {
+     "type": "uri",
+     "label": "開啟名片",
+     "uri": "https://sunny.cardtaiwan.com/"
     }
    },
    {
@@ -1202,157 +766,6 @@
      "contents": [
       {
        "type": "box",
-       "layout": "vertical",
-       "contents": [
-        {
-         "type": "box",
-         "layout": "horizontal",
-         "contents": [
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          }
-         ],
-         "spacing": "none",
-         "alignItems": "flex-end",
-         "height": "12px",
-         "justifyContent": "space-between"
-        },
-        {
-         "type": "box",
-         "layout": "vertical",
-         "contents": [],
-         "backgroundColor": "#1F3A68",
-         "height": "1px",
-         "width": "100%"
-        }
-       ],
-       "spacing": "none"
-      },
-      {
-       "type": "box",
        "layout": "horizontal",
        "contents": [
         {
@@ -1367,7 +780,7 @@
         {
          "type": "text",
          "text": "04 / 06",
-         "size": "xxs",
+         "size": "xs",
          "weight": "regular",
          "color": "#26282B",
          "wrap": false
@@ -1383,7 +796,7 @@
         {
          "type": "text",
          "text": "為什麼選擇銓治？",
-         "size": "xl",
+         "size": "xxl",
          "weight": "bold",
          "color": "#1F3A68",
          "wrap": true,
@@ -1417,15 +830,16 @@
       {
        "type": "text",
        "text": "· 信義房屋漏水保固廠商・信義居家認證合作廠商\n· 專業團隊累積超過 20 年防水抓漏經驗\n· 營建防水丙級技術士・CRAA 工業繩索技術員 Level-1\n· 公共工程實績：兩廳院、都發局新州屋、上市集團屋頂外牆",
-       "size": "sm",
+       "size": "md",
        "weight": "regular",
        "color": "#26282B",
        "wrap": true,
+       "lineSpacing": "2px",
        "margin": "sm"
       }
      ],
      "spacing": "none",
-     "paddingAll": "18px",
+     "paddingAll": "10px",
      "backgroundColor": "#F4F1EA"
     },
     "footer": {
@@ -1443,7 +857,7 @@
           {
            "type": "text",
            "text": "立即來電 0915-226881",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1476,7 +890,7 @@
           {
            "type": "text",
            "text": "官方網站",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1502,7 +916,7 @@
           {
            "type": "text",
            "text": "官方 LINE",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1528,7 +942,7 @@
           {
            "type": "text",
            "text": "修繕需求",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1561,7 +975,7 @@
           {
            "type": "text",
            "text": "分享名片",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1587,6 +1001,11 @@
      "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
+    },
+    "action": {
+     "type": "uri",
+     "label": "開啟名片",
+     "uri": "https://sunny.cardtaiwan.com/"
     }
    },
    {
@@ -1604,157 +1023,6 @@
      "type": "box",
      "layout": "vertical",
      "contents": [
-      {
-       "type": "box",
-       "layout": "vertical",
-       "contents": [
-        {
-         "type": "box",
-         "layout": "horizontal",
-         "contents": [
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          }
-         ],
-         "spacing": "none",
-         "alignItems": "flex-end",
-         "height": "12px",
-         "justifyContent": "space-between"
-        },
-        {
-         "type": "box",
-         "layout": "vertical",
-         "contents": [],
-         "backgroundColor": "#1F3A68",
-         "height": "1px",
-         "width": "100%"
-        }
-       ],
-       "spacing": "none"
-      },
       {
        "type": "box",
        "layout": "horizontal",
@@ -1771,7 +1039,7 @@
         {
          "type": "text",
          "text": "05 / 06",
-         "size": "xxs",
+         "size": "xs",
          "weight": "regular",
          "color": "#26282B",
          "wrap": false
@@ -1787,7 +1055,7 @@
         {
          "type": "text",
          "text": "從檢測到完工，五步說清楚",
-         "size": "xl",
+         "size": "xxl",
          "weight": "bold",
          "color": "#1F3A68",
          "wrap": true,
@@ -1801,15 +1069,16 @@
       {
        "type": "text",
        "text": "· 需求諮詢：提供漏水位置、發生情況及現場照片。\n· 現場勘查：了解現場狀況，評估是否需進一步檢測。\n· 方案報價：說明施工範圍、方式、費用與預估工期。\n· 排程施工：確認報價後安排施作，主動回報進度。\n· 完工交付：確認成果，提供約定文件與保固說明。",
-       "size": "sm",
+       "size": "md",
        "weight": "regular",
        "color": "#26282B",
        "wrap": true,
+       "lineSpacing": "2px",
        "margin": "sm"
       }
      ],
      "spacing": "none",
-     "paddingAll": "18px",
+     "paddingAll": "10px",
      "backgroundColor": "#F4F1EA"
     },
     "footer": {
@@ -1827,7 +1096,7 @@
           {
            "type": "text",
            "text": "立即來電 0915-226881",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1860,7 +1129,7 @@
           {
            "type": "text",
            "text": "官方網站",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1886,7 +1155,7 @@
           {
            "type": "text",
            "text": "官方 LINE",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1912,7 +1181,7 @@
           {
            "type": "text",
            "text": "修繕需求",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1945,7 +1214,7 @@
           {
            "type": "text",
            "text": "分享名片",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -1971,6 +1240,11 @@
      "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
+    },
+    "action": {
+     "type": "uri",
+     "label": "開啟名片",
+     "uri": "https://sunny.cardtaiwan.com/"
     }
    },
    {
@@ -1990,157 +1264,6 @@
      "contents": [
       {
        "type": "box",
-       "layout": "vertical",
-       "contents": [
-        {
-         "type": "box",
-         "layout": "horizontal",
-         "contents": [
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "12px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          },
-          {
-           "type": "box",
-           "layout": "vertical",
-           "contents": [],
-           "backgroundColor": "#1F3A68",
-           "height": "6px",
-           "width": "2px",
-           "flex": 0
-          }
-         ],
-         "spacing": "none",
-         "alignItems": "flex-end",
-         "height": "12px",
-         "justifyContent": "space-between"
-        },
-        {
-         "type": "box",
-         "layout": "vertical",
-         "contents": [],
-         "backgroundColor": "#1F3A68",
-         "height": "1px",
-         "width": "100%"
-        }
-       ],
-       "spacing": "none"
-      },
-      {
-       "type": "box",
        "layout": "horizontal",
        "contents": [
         {
@@ -2155,7 +1278,7 @@
         {
          "type": "text",
          "text": "06 / 06",
-         "size": "xxs",
+         "size": "xs",
          "weight": "regular",
          "color": "#26282B",
          "wrap": false
@@ -2171,7 +1294,7 @@
         {
          "type": "text",
          "text": "聯絡銓治工程",
-         "size": "xl",
+         "size": "xxl",
          "weight": "bold",
          "color": "#1F3A68",
          "wrap": true,
@@ -2183,7 +1306,7 @@
       {
        "type": "text",
        "text": "傳現場照片給我們，先了解再安排勘查",
-       "size": "sm",
+       "size": "md",
        "weight": "regular",
        "color": "#26282B",
        "wrap": true,
@@ -2307,7 +1430,7 @@
       }
      ],
      "spacing": "none",
-     "paddingAll": "18px",
+     "paddingAll": "10px",
      "backgroundColor": "#F4F1EA"
     },
     "footer": {
@@ -2325,7 +1448,7 @@
           {
            "type": "text",
            "text": "立即來電 0915-226881",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -2358,7 +1481,7 @@
           {
            "type": "text",
            "text": "官方網站",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -2384,7 +1507,7 @@
           {
            "type": "text",
            "text": "官方 LINE",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -2410,7 +1533,7 @@
           {
            "type": "text",
            "text": "修繕需求",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -2443,7 +1566,7 @@
           {
            "type": "text",
            "text": "分享名片",
-           "size": "xs",
+           "size": "sm",
            "weight": "bold",
            "color": "#FFFFFF",
            "wrap": true,
@@ -2469,6 +1592,11 @@
      "spacing": "xs",
      "paddingAll": "14px",
      "backgroundColor": "#F4F1EA"
+    },
+    "action": {
+     "type": "uri",
+     "label": "開啟名片",
+     "uri": "https://sunny.cardtaiwan.com/"
     }
    }
   ]
