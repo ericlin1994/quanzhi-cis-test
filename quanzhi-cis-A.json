@@ -1,6 +1,6 @@
 {
  "type": "flex",
- "altText": "銓治工程｜鄧溢錩 SUNNY 電子名片（CIS 紙感版）",
+ "altText": "銓治工程｜鄧溢錩 SUNNY 電子名片",
  "contents": {
   "type": "carousel",
   "contents": [
@@ -176,14 +176,24 @@
        "contents": [
         {
          "type": "text",
-         "text": "QUAN ZHI · 01 / 06",
+         "text": "SENJI WATERPROOFING",
+         "size": "xxs",
+         "weight": "regular",
+         "color": "#6E6F72",
+         "wrap": false,
+         "flex": 1
+        },
+        {
+         "type": "text",
+         "text": "01 / 06",
          "size": "xxs",
          "weight": "regular",
          "color": "#6E6F72",
          "wrap": false
         }
        ],
-       "spacing": "none"
+       "spacing": "sm",
+       "justifyContent": "space-between"
       },
       {
        "type": "box",
@@ -384,6 +394,47 @@
         }
        ],
        "spacing": "sm"
+      },
+      {
+       "type": "box",
+       "layout": "horizontal",
+       "contents": [
+        {
+         "type": "box",
+         "layout": "vertical",
+         "contents": [
+          {
+           "type": "image",
+           "url": "https://sunny.cardtaiwan.com/img/icon-share-v2.png",
+           "size": "20px",
+           "aspectRatio": "1:1",
+           "aspectMode": "cover",
+           "flex": 0
+          },
+          {
+           "type": "text",
+           "text": "分享名片",
+           "size": "xs",
+           "weight": "bold",
+           "color": "#FFFFFF",
+           "wrap": true,
+           "align": "center"
+          }
+         ],
+         "spacing": "xs",
+         "paddingAll": "10px",
+         "backgroundColor": "#1B6DB7",
+         "cornerRadius": "8px",
+         "flex": 1,
+         "alignItems": "center",
+         "action": {
+          "type": "uri",
+          "label": "分享名片",
+          "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json&v=cis-a#share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json"
+         }
+        }
+       ],
+       "spacing": "none"
       }
      ],
      "spacing": "sm",
@@ -563,14 +614,24 @@
        "contents": [
         {
          "type": "text",
-         "text": "QUAN ZHI · 02 / 06",
+         "text": "SENJI WATERPROOFING",
+         "size": "xxs",
+         "weight": "regular",
+         "color": "#6E6F72",
+         "wrap": false,
+         "flex": 1
+        },
+        {
+         "type": "text",
+         "text": "02 / 06",
          "size": "xxs",
          "weight": "regular",
          "color": "#6E6F72",
          "wrap": false
         }
        ],
-       "spacing": "none"
+       "spacing": "sm",
+       "justifyContent": "space-between"
       },
       {
        "type": "box",
@@ -742,6 +803,47 @@
         }
        ],
        "spacing": "sm"
+      },
+      {
+       "type": "box",
+       "layout": "horizontal",
+       "contents": [
+        {
+         "type": "box",
+         "layout": "vertical",
+         "contents": [
+          {
+           "type": "image",
+           "url": "https://sunny.cardtaiwan.com/img/icon-share-v2.png",
+           "size": "20px",
+           "aspectRatio": "1:1",
+           "aspectMode": "cover",
+           "flex": 0
+          },
+          {
+           "type": "text",
+           "text": "分享名片",
+           "size": "xs",
+           "weight": "bold",
+           "color": "#FFFFFF",
+           "wrap": true,
+           "align": "center"
+          }
+         ],
+         "spacing": "xs",
+         "paddingAll": "10px",
+         "backgroundColor": "#1B6DB7",
+         "cornerRadius": "8px",
+         "flex": 1,
+         "alignItems": "center",
+         "action": {
+          "type": "uri",
+          "label": "分享名片",
+          "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json&v=cis-a#share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json"
+         }
+        }
+       ],
+       "spacing": "none"
       }
      ],
      "spacing": "sm",
@@ -921,14 +1023,24 @@
        "contents": [
         {
          "type": "text",
-         "text": "QUAN ZHI · 03 / 06",
+         "text": "SENJI WATERPROOFING",
+         "size": "xxs",
+         "weight": "regular",
+         "color": "#6E6F72",
+         "wrap": false,
+         "flex": 1
+        },
+        {
+         "type": "text",
+         "text": "03 / 06",
          "size": "xxs",
          "weight": "regular",
          "color": "#6E6F72",
          "wrap": false
         }
        ],
-       "spacing": "none"
+       "spacing": "sm",
+       "justifyContent": "space-between"
       },
       {
        "type": "box",
@@ -1100,6 +1212,47 @@
         }
        ],
        "spacing": "sm"
+      },
+      {
+       "type": "box",
+       "layout": "horizontal",
+       "contents": [
+        {
+         "type": "box",
+         "layout": "vertical",
+         "contents": [
+          {
+           "type": "image",
+           "url": "https://sunny.cardtaiwan.com/img/icon-share-v2.png",
+           "size": "20px",
+           "aspectRatio": "1:1",
+           "aspectMode": "cover",
+           "flex": 0
+          },
+          {
+           "type": "text",
+           "text": "分享名片",
+           "size": "xs",
+           "weight": "bold",
+           "color": "#FFFFFF",
+           "wrap": true,
+           "align": "center"
+          }
+         ],
+         "spacing": "xs",
+         "paddingAll": "10px",
+         "backgroundColor": "#1B6DB7",
+         "cornerRadius": "8px",
+         "flex": 1,
+         "alignItems": "center",
+         "action": {
+          "type": "uri",
+          "label": "分享名片",
+          "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json&v=cis-a#share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json"
+         }
+        }
+       ],
+       "spacing": "none"
       }
      ],
      "spacing": "sm",
@@ -1279,14 +1432,24 @@
        "contents": [
         {
          "type": "text",
-         "text": "QUAN ZHI · 04 / 06",
+         "text": "SENJI WATERPROOFING",
+         "size": "xxs",
+         "weight": "regular",
+         "color": "#6E6F72",
+         "wrap": false,
+         "flex": 1
+        },
+        {
+         "type": "text",
+         "text": "04 / 06",
          "size": "xxs",
          "weight": "regular",
          "color": "#6E6F72",
          "wrap": false
         }
        ],
-       "spacing": "none"
+       "spacing": "sm",
+       "justifyContent": "space-between"
       },
       {
        "type": "box",
@@ -1478,6 +1641,47 @@
         }
        ],
        "spacing": "sm"
+      },
+      {
+       "type": "box",
+       "layout": "horizontal",
+       "contents": [
+        {
+         "type": "box",
+         "layout": "vertical",
+         "contents": [
+          {
+           "type": "image",
+           "url": "https://sunny.cardtaiwan.com/img/icon-share-v2.png",
+           "size": "20px",
+           "aspectRatio": "1:1",
+           "aspectMode": "cover",
+           "flex": 0
+          },
+          {
+           "type": "text",
+           "text": "分享名片",
+           "size": "xs",
+           "weight": "bold",
+           "color": "#FFFFFF",
+           "wrap": true,
+           "align": "center"
+          }
+         ],
+         "spacing": "xs",
+         "paddingAll": "10px",
+         "backgroundColor": "#1B6DB7",
+         "cornerRadius": "8px",
+         "flex": 1,
+         "alignItems": "center",
+         "action": {
+          "type": "uri",
+          "label": "分享名片",
+          "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json&v=cis-a#share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json"
+         }
+        }
+       ],
+       "spacing": "none"
       }
      ],
      "spacing": "sm",
@@ -1657,14 +1861,24 @@
        "contents": [
         {
          "type": "text",
-         "text": "QUAN ZHI · 05 / 06",
+         "text": "SENJI WATERPROOFING",
+         "size": "xxs",
+         "weight": "regular",
+         "color": "#6E6F72",
+         "wrap": false,
+         "flex": 1
+        },
+        {
+         "type": "text",
+         "text": "05 / 06",
          "size": "xxs",
          "weight": "regular",
          "color": "#6E6F72",
          "wrap": false
         }
        ],
-       "spacing": "none"
+       "spacing": "sm",
+       "justifyContent": "space-between"
       },
       {
        "type": "box",
@@ -1836,6 +2050,47 @@
         }
        ],
        "spacing": "sm"
+      },
+      {
+       "type": "box",
+       "layout": "horizontal",
+       "contents": [
+        {
+         "type": "box",
+         "layout": "vertical",
+         "contents": [
+          {
+           "type": "image",
+           "url": "https://sunny.cardtaiwan.com/img/icon-share-v2.png",
+           "size": "20px",
+           "aspectRatio": "1:1",
+           "aspectMode": "cover",
+           "flex": 0
+          },
+          {
+           "type": "text",
+           "text": "分享名片",
+           "size": "xs",
+           "weight": "bold",
+           "color": "#FFFFFF",
+           "wrap": true,
+           "align": "center"
+          }
+         ],
+         "spacing": "xs",
+         "paddingAll": "10px",
+         "backgroundColor": "#1B6DB7",
+         "cornerRadius": "8px",
+         "flex": 1,
+         "alignItems": "center",
+         "action": {
+          "type": "uri",
+          "label": "分享名片",
+          "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json&v=cis-a#share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json"
+         }
+        }
+       ],
+       "spacing": "none"
       }
      ],
      "spacing": "sm",
@@ -2015,13 +2270,24 @@
        "contents": [
         {
          "type": "text",
-         "text": "QUAN ZHI · 06 / 06",
+         "text": "SENJI WATERPROOFING",
+         "size": "xxs",
+         "weight": "regular",
+         "color": "#6E6F72",
+         "wrap": false,
+         "flex": 1
+        },
+        {
+         "type": "text",
+         "text": "06 / 06",
          "size": "xxs",
          "weight": "regular",
          "color": "#6E6F72",
          "wrap": false
         }
-       ]
+       ],
+       "spacing": "sm",
+       "justifyContent": "space-between"
       },
       {
        "type": "box",
@@ -2347,6 +2613,47 @@
         }
        ],
        "spacing": "sm"
+      },
+      {
+       "type": "box",
+       "layout": "horizontal",
+       "contents": [
+        {
+         "type": "box",
+         "layout": "vertical",
+         "contents": [
+          {
+           "type": "image",
+           "url": "https://sunny.cardtaiwan.com/img/icon-share-v2.png",
+           "size": "20px",
+           "aspectRatio": "1:1",
+           "aspectMode": "cover",
+           "flex": 0
+          },
+          {
+           "type": "text",
+           "text": "分享名片",
+           "size": "xs",
+           "weight": "bold",
+           "color": "#FFFFFF",
+           "wrap": true,
+           "align": "center"
+          }
+         ],
+         "spacing": "xs",
+         "paddingAll": "10px",
+         "backgroundColor": "#1B6DB7",
+         "cornerRadius": "8px",
+         "flex": 1,
+         "alignItems": "center",
+         "action": {
+          "type": "uri",
+          "label": "分享名片",
+          "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json&v=cis-a#share=1&src=https://raw.githubusercontent.com/ericlin1994/quanzhi-cis-test/master/quanzhi-cis-A.json"
+         }
+        }
+       ],
+       "spacing": "none"
       }
      ],
      "spacing": "sm",
